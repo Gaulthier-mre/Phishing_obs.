@@ -1,0 +1,88 @@
+2025-06-14 23:00:02,094 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-14 23:00:02,529 - ERROR - Error processing emails: 'str' object has no attribute 'decode'
+2025-06-14 23:00:22,502 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-14 23:00:22,921 - ERROR - Error processing emails: 'str' object has no attribute 'decode'
+2025-06-14 23:06:41,862 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-14 23:06:42,310 - INFO - Scan: [Product Update] New security ... | Score: 33
+2025-06-14 23:06:42,311 - WARNING - PHISHING: [Product Update] New security enhancement for your Google Cloud environment | From: Google Cloud <CloudPlatform-noreply@google.com>
+2025-06-14 23:06:42,762 - INFO - Scan: New login to Instagram from Ch... | Score: 6
+2025-06-14 23:06:42,919 - INFO - Scan: Please verify your email addre... | Score: 31
+2025-06-14 23:06:42,919 - WARNING - PHISHING: Please verify your email address for your account | From: Maltego Technologies GmbH <support@maltego.com>
+2025-06-14 23:06:43,373 - INFO - Scan: Your Google Account was recove... | Score: 6
+2025-06-14 23:06:43,523 - INFO - Scan: Security alert... | Score: 8
+2025-06-14 23:06:43,524 - WARNING - PHISHING: Security alert | From: Google <no-reply@accounts.google.com>
+2025-06-14 23:06:43,966 - INFO - Scan: Your Google Account was recove... | Score: 6
+2025-06-14 23:06:44,113 - INFO - Scan: Security alert... | Score: 8
+2025-06-14 23:06:44,113 - WARNING - PHISHING: Security alert | From: Google <no-reply@accounts.google.com>
+2025-06-14 23:06:44,579 - INFO - Scan: Welcome to ngrok... | Score: 60
+2025-06-14 23:06:44,579 - WARNING - PHISHING: Welcome to ngrok | From: ngrok <team@m.ngrok.com>
+2025-06-14 23:06:45,022 - INFO - Scan: Multi-factor authentication de... | Score: 4
+2025-06-14 23:06:45,169 - INFO - Scan: New login to Instagram from Ch... | Score: 6
+2025-06-14 23:06:45,313 - INFO - Scan: Security alert... | Score: 8
+2025-06-14 23:06:45,314 - WARNING - PHISHING: Security alert | From: Google <no-reply@accounts.google.com>
+2025-06-14 23:06:45,787 - INFO - Scan: Your Google Account was recove... | Score: 6
+2025-06-14 23:06:46,006 - INFO - Scan: Meta Privacy Policy update... | Score: 6
+2025-06-14 23:06:46,207 - INFO - Scan: Code faster with AI: Try GitHu... | Score: 66
+2025-06-14 23:06:46,207 - WARNING - PHISHING: Code faster with AI: Try GitHub Copilot | From: GitHub <no-reply@github.com>
+2025-06-14 23:06:46,657 - INFO - Scan: Secure your account today... | Score: 54
+2025-06-14 23:06:46,657 - WARNING - PHISHING: Secure your account today | From: GitHub <no-reply@github.com>
+2025-06-14 23:06:47,135 - INFO - Scan: It’s time to create your first... | Score: 51
+2025-06-14 23:06:47,135 - WARNING - PHISHING: It’s time to create your first pull request on GitHub | From: GitHub <no-reply@github.com>
+2025-06-14 23:06:47,634 - INFO - Scan: Ready to code? Your first repo... | Score: 54
+2025-06-14 23:06:47,634 - WARNING - PHISHING: Ready to code? Your first repository awaits | From: GitHub <no-reply@github.com>
+2025-06-14 23:06:48,129 - INFO - Scan: Get started with Git – the pow... | Score: 54
+2025-06-14 23:06:48,130 - WARNING - PHISHING: Get started with Git – the power behind GitHub | From: GitHub <no-reply@github.com>
+2025-06-14 23:06:48,619 - INFO - Scan: osint_zeno1, catch up on momen... | Score: 3
+2025-06-14 23:06:48,819 - INFO - Scan: Security alert... | Score: 8
+2025-06-14 23:06:48,819 - WARNING - PHISHING: Security alert | From: Google <no-reply@accounts.google.com>
+2025-06-14 23:06:49,088 - INFO - Scan completed successfully
+2025-06-14 23:09:25,076 - INFO - === Starting PhishKiller ===
+2025-06-14 23:09:25,080 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-14 23:09:25,518 - INFO - Scan: New login to Instagram from Ch... | Score: 6
+2025-06-14 23:09:25,666 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:09:25,810 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:09:25,958 - INFO - Scan: Multi-factor authentication de... | Score: 3
+2025-06-14 23:09:26,104 - INFO - Scan: New login to Instagram from Ch... | Score: 6
+2025-06-14 23:09:26,248 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:09:26,395 - INFO - Scan: Meta Privacy Policy update... | Score: 4
+2025-06-14 23:09:26,542 - INFO - Scan: osint_zeno1, catch up on momen... | Score: 3
+2025-06-14 23:09:26,681 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:09:26,872 - INFO - Scan: Create your GitHub profile to ... | Score: 0
+2025-06-14 23:09:27,016 - INFO - Scan: Security alert... | Score: 6
+2025-06-14 23:09:27,176 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:09:27,325 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:09:27,483 - INFO - Scan: New login to Instagram from Ch... | Score: 6
+2025-06-14 23:09:27,662 - INFO - Scan: Welcome to GitHub—let’s get st... | Score: 0
+2025-06-14 23:09:27,820 - INFO - Scan: Security alert... | Score: 6
+2025-06-14 23:09:27,987 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:09:28,157 - INFO - Scan: 🚀 Your GitHub launch code... | Score: 0
+2025-06-14 23:09:28,307 - INFO - Scan: 890741 is your Instagram code... | Score: 3
+2025-06-14 23:09:28,461 - INFO - Scan: 890741 is your Instagram code... | Score: 3
+2025-06-14 23:09:28,461 - INFO - === Scan completed ===
+2025-06-14 23:10:02,762 - INFO - === Starting PhishKiller ===
+2025-06-14 23:10:02,767 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-14 23:10:03,218 - INFO - Scan: New login to Instagram from Ch... | Score: 6
+2025-06-14 23:10:03,357 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:10:03,491 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:10:03,637 - INFO - Scan: Multi-factor authentication de... | Score: 3
+2025-06-14 23:10:03,778 - INFO - Scan: New login to Instagram from Ch... | Score: 6
+2025-06-14 23:10:03,913 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:10:04,056 - INFO - Scan: Meta Privacy Policy update... | Score: 4
+2025-06-14 23:10:04,211 - INFO - Scan: osint_zeno1, catch up on momen... | Score: 3
+2025-06-14 23:10:04,351 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:10:04,497 - INFO - Scan: Create your GitHub profile to ... | Score: 0
+2025-06-14 23:10:04,637 - INFO - Scan: Security alert... | Score: 6
+2025-06-14 23:10:04,782 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:10:04,923 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:10:05,060 - INFO - Scan: New login to Instagram from Ch... | Score: 6
+2025-06-14 23:10:05,206 - INFO - Scan: Welcome to GitHub—let’s get st... | Score: 0
+2025-06-14 23:10:05,339 - INFO - Scan: Security alert... | Score: 6
+2025-06-14 23:10:05,475 - INFO - Scan: Your Google Account was recove... | Score: 5
+2025-06-14 23:10:05,627 - INFO - Scan: 🚀 Your GitHub launch code... | Score: 0
+2025-06-14 23:10:05,764 - INFO - Scan: 890741 is your Instagram code... | Score: 3
+2025-06-14 23:10:05,912 - INFO - Scan: 890741 is your Instagram code... | Score: 3
+2025-06-14 23:10:05,912 - INFO - === Scan completed ===
+2025-06-14 23:12:50,521 - INFO - === Starting PhishKiller ===
+2025-06-14 23:12:50,525 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-06-14 23:12:51,385 - INFO - Scan: Multi-factor authentication de... | Score: 3
+2025-06-14 23:12:53,762 - INFO - === Scan completed ===
